@@ -1,0 +1,17 @@
+{
+    "binanceApiKey": "x",
+    "binanceApiSecret": "x",
+    "coinbaseKey": "x",
+    "coinbaseSecret": "x",
+    "coinbasePassphrase": "x",
+    "coinbaseApiURI": "https://api.pro.coinbase.com",
+    "wallHeight": 10000,
+    "skipQuantity": 1200,
+    "tradeQuantity": 25,
+    "underCutBy": 1,
+    "minSpread": 20,
+    "cToB": true,
+    "bToC": false,
+    "pop_orders": 4,
+    "coin": "ZRX"
+}
