@@ -1,5 +1,6 @@
 ### ArbV2 Bot
 
+Edit: This repo is no longer maintainted. It has packages that have been since been found to be vulnerable. Only use this for educational purposes. 
 
 **Model**: Placing orders below `market price` (price at Exchange B) on Exchange A and constantly maintaining the 25bps spread. Waits until order is filled to instantly capture the spread profits. 
 
